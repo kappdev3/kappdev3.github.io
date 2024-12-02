@@ -16,6 +16,11 @@
     --link-color: #4FAAFF;
 }
 
+li {
+    margin-bottom: 0.5em;
+    line-height: 1.4;
+}
+
 a {
     color: var(--link-color);
     font-weight: bold;
